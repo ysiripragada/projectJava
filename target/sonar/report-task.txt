@@ -1,0 +1,7 @@
+organization=ysiripragada-github
+projectKey=ysiripragada_projectJava
+serverUrl=https://sonarcloud.io
+serverVersion=7.8.0.25899
+dashboardUrl=https://sonarcloud.io/dashboard?id=ysiripragada_projectJava
+ceTaskId=AWtMov4E8XJqcYmylWoB
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWtMov4E8XJqcYmylWoB
